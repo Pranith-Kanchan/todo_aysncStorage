@@ -1,6 +1,6 @@
 # todo_aysncStorage
 
-``js
+``Js
 import {
   Text,
   SafeAreaView,
